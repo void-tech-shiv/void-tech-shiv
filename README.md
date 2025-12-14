@@ -35,5 +35,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=void-tech-shiv&show_icons=true&locale=en&layout=compact" alt="void-tech-shiv" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=void-tech-shiv&show_icons=true&locale=en" alt="void-tech-shiv" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=void-tech-shiv&" alt="void-tech-shiv" /></p>
