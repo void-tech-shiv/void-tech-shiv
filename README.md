@@ -1,14 +1,14 @@
 <div align="center">
 
-![Intro](./assets/hero.svg?v=1)
+![Intro](./assets/hero.svg?v=2)
 
 ![About](./assets/about-life.svg?v=1)
 
 ![Stack](./assets/stack.svg?v=1)
 
-![ID](./assets/id-dashboard.svg?v=1)
+![ID](./assets/id-dashboard.svg?v=2)
 
-![Connect](./assets/connect.svg?v=1)
+![Connect](./assets/connect.svg?v=2)
 
 </div>
 
@@ -26,4 +26,4 @@
 - **AI-SOC:** [github.com/void-tech-shiv/AI-SOC](https://github.com/void-tech-shiv/AI-SOC)
 - **PassCheck:** [get-passcheck.vercel.app](https://get-passcheck.vercel.app/)
 
-<sub>Profile visuals are self-contained SVGs with no external image requests.</sub>
+<sub>Profile visuals are GitHub-safe SVG panels with no embedded raster images.</sub>
