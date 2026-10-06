@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-label="Intro panel for Shivanshu Satyajeet">
+  <style>
+    .bg{fill:#050b18}.panel{fill:#0b1730;stroke:#1d4f9e;stroke-width:2}.accent{fill:#2d7df6}.accent2{fill:#ff3d61}.txt{fill:#f6f8ff;font-family:Arial,sans-serif}.muted{fill:#9ab0d1;font-family:Arial,sans-serif}.mono{fill:#7ea6ff;font-family:monospace}
+  </style>
+  <rect width="1200" height="520" rx="30" class="bg"/>
+  <rect x="2" y="2" width="1196" height="516" rx="28" fill="none" stroke="#1f4ea5" stroke-width="2"/>
+  <rect x="3" y="3" width="1194" height="514" rx="27" fill="none" stroke="#ff3d61" stroke-opacity="0.55" stroke-width="1"/>
+  <g opacity="0.22">
+    <path d="M60 92H1140" stroke="#15335f" stroke-width="1"/>
+    <path d="M60 146H1140" stroke="#15335f" stroke-width="1"/>
+    <path d="M60 200H1140" stroke="#15335f" stroke-width="1"/>
+    <path d="M60 254H1140" stroke="#15335f" stroke-width="1"/>
+    <path d="M60 308H1140" stroke="#15335f" stroke-width="1"/>
+    <path d="M60 362H1140" stroke="#15335f" stroke-width="1"/>
+    <path d="M60 416H1140" stroke="#15335f" stroke-width="1"/>
+    <path d="M150 40V480" stroke="#15335f" stroke-width="1"/>
+    <path d="M240 40V480" stroke="#15335f" stroke-width="1"/>
+    <path d="M330 40V480" stroke="#15335f" stroke-width="1"/>
+    <path d="M420 40V480" stroke="#15335f" stroke-width="1"/>
+    <path d="M510 40V480" stroke="#15335f" stroke-width="1"/>
+    <path d="M600 40V480" stroke="#15335f" stroke-width="1"/>
+  </g>
+  <circle cx="85" cy="58" r="7" class="accent"/>
+  <text x="104" y="66" class="mono" font-size="18">@void-tech-shiv</text>
+  <text x="68" y="142" class="muted" font-size="26" letter-spacing="4">HEY, I'M</text>
+  <text x="68" y="244" class="txt" font-size="86" font-weight="800">SHIVANSHU</text>
+  <text x="70" y="299" class="txt" font-size="36" font-weight="700">SATYAJEET</text>
+  <text x="70" y="354" class="muted" font-size="24">Building security-first software, AI systems and practical developer tools.</text>
+  <rect x="69" y="387" width="592" height="58" rx="18" class="panel"/>
+  <circle cx="94" cy="416" r="7" class="accent"/>
+  <text x="117" y="424" class="txt" font-size="22" font-weight="700">Cybersecurity Developer  ·  Full-Stack Builder  ·  AI Security</text>
+  <circle cx="968" cy="236" r="158" fill="#09142b" stroke="#2d7df6" stroke-width="3"/>
+  <circle cx="968" cy="236" r="176" fill="none" stroke="#ff3d61" stroke-width="2" stroke-dasharray="10 14" opacity="0.8"/>
+  <rect x="846" y="120" width="244" height="232" rx="28" fill="#0c1732" stroke="#294f93" stroke-width="2"/>
+  <circle cx="968" cy="171" r="44" fill="#1a2d55"/>
+  <circle cx="968" cy="160" r="18" fill="#f6f8ff"/>
+  <path d="M922 223c13-31 37-47 46-47s33 16 46 47v40h-92z" fill="#f6f8ff"/>
+  <text x="968" y="280" text-anchor="middle" class="txt" font-size="54" font-weight="800">SS</text>
+  <text x="968" y="306" text-anchor="middle" class="mono" font-size="17">SECURITY  ·  AI  ·  FULL STACK</text>
+  <rect x="818" y="420" width="300" height="50" rx="16" fill="#10203e" stroke="#3f66b0" stroke-width="1.5"/>
+  <text x="968" y="452" text-anchor="middle" class="muted" font-size="18">Reliable rendering for GitHub profile view</text>
+</svg>
