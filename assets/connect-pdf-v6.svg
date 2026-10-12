@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620" role="img" aria-label="Connect with Shivanshu Satyajeet">
+<defs>
+  <linearGradient id="edge" x1="0" x2="1"><stop stop-color="#247bff"/><stop offset="1" stop-color="#ff354f"/></linearGradient>
+  <linearGradient id="skin" x1="0" x2="1"><stop stop-color="#d98b63"/><stop offset="1" stop-color="#a9553e"/></linearGradient>
+  <linearGradient id="coat" x1="0" x2="1"><stop stop-color="#0e1524"/><stop offset="1" stop-color="#19131b"/></linearGradient>
+</defs>
+<style>.t{fill:#f6f7fb;font-family:Inter,Segoe UI,Arial,sans-serif}.m{fill:#9ba9c3;font-family:Inter,Segoe UI,Arial,sans-serif}.mono{fill:#87a1c7;font-family:Consolas,monospace}.p{fill:#0d1527;stroke:#20395f;stroke-width:2}@media(prefers-reduced-motion:reduce){animateTransform{display:none}}</style>
+<rect width="1200" height="620" rx="30" fill="#070b16"/><rect x="2" y="2" width="1196" height="616" rx="28" fill="none" stroke="url(#edge)" stroke-width="3"/>
+<text x="60" y="68" class="mono" font-size="18">04 / CONNECT</text><text x="60" y="118" class="t" font-size="42" font-weight="800">BUILD SOMETHING USEFUL.</text><text x="60" y="154" class="m" font-size="21">Explore my work, portfolio and profiles.</text>
+<g transform="translate(35 170)">
+  <path d="M75 438 Q72 323 108 252 Q137 198 184 187 Q224 178 263 196 Q298 214 313 254 Q330 300 331 438Z" fill="url(#coat)"/>
+  <path d="M121 438 Q125 321 159 272 L205 302 L247 271 Q281 324 289 438Z" fill="#090d17"/>
+  <path d="M183 182 L183 219 Q205 238 226 218 L226 181Z" fill="url(#skin)"/>
+  <ellipse cx="205" cy="123" rx="66" ry="78" fill="url(#skin)"/>
+  <path d="M141 116 Q136 52 183 32 Q219 17 253 39 Q286 59 271 117 Q255 83 226 80 Q194 75 168 94 Q151 105 141 116Z" fill="#0a080c"/>
+  <path d="M146 93 Q158 58 181 41 M167 84 Q187 46 210 37 M198 78 Q222 41 247 49 M230 83 Q253 60 268 82" fill="none" stroke="#181820" stroke-width="10" stroke-linecap="round"/>
+  <path d="M145 91 Q151 68 166 52" fill="none" stroke="#247bff" stroke-width="4"/><path d="M252 48 Q270 66 273 92" fill="none" stroke="#ff354f" stroke-width="4"/>
+  <g fill="none" stroke="#c9ceda" stroke-width="3"><rect x="148" y="102" width="49" height="33" rx="11"/><rect x="214" y="102" width="49" height="33" rx="11"/><path d="M197 116 Q205 112 214 116"/></g>
+  <ellipse cx="174" cy="119" rx="4" ry="6" fill="#151218"/><ellipse cx="238" cy="119" rx="4" ry="6" fill="#151218"/><path d="M205 120 Q197 142 204 147" fill="none" stroke="#a75c45" stroke-width="3"/>
+  <path d="M179 157 Q205 170 233 156" fill="none" stroke="#66352f" stroke-width="4" stroke-linecap="round"/><path d="M166 150 Q173 180 191 190 Q205 199 220 190 Q238 179 246 149 Q236 172 221 178 Q205 185 190 177 Q176 172 166 150Z" fill="#251516" opacity=".9"/>
+  <path d="M104 276 Q65 304 44 350 Q32 374 48 390 Q63 402 81 389 L170 326 Q187 316 198 328 Q207 341 192 352 L120 415" fill="url(#skin)"/>
+  <path d="M310 267 Q347 279 372 309 L415 350 Q432 365 446 350 Q458 337 444 322 L391 264 Q360 228 317 220Z" fill="url(#coat)"/>
+  <path d="M436 324 Q468 307 501 287 Q519 276 531 288 Q542 302 526 314 L476 345 Q461 354 449 350 Q438 345 436 324Z" fill="url(#skin)"/>
+  <path d="M496 291 L537 274 Q548 270 553 279 Q557 287 547 293 L521 306" fill="url(#skin)"/>
+  <path d="M170 326 Q220 333 244 343" fill="none" stroke="#ff354f" stroke-width="4" opacity=".8"/><path d="M91 389 Q75 418 75 438" fill="none" stroke="#247bff" stroke-width="5" opacity=".75"/>
+</g>
+<g transform="translate(600 190)"><rect width="520" height="100" rx="22" class="p"/><circle cx="54" cy="50" r="24" fill="#247bff"/><text x="54" y="57" text-anchor="middle" class="t" font-size="18" font-weight="800">GH</text><text x="100" y="42" class="t" font-size="23" font-weight="750">GitHub</text><text x="100" y="68" class="mono" font-size="15">github.com/void-tech-shiv</text><g><text x="470" y="60" fill="#247bff" font-size="28">→</text><animateTransform attributeName="transform" type="translate" values="0 0;8 0;0 0" dur="1.5s" repeatCount="indefinite"/></g></g>
+<g transform="translate(600 315)"><rect width="520" height="100" rx="22" class="p"/><circle cx="54" cy="50" r="24" fill="#247bff"/><text x="54" y="56" text-anchor="middle" class="t" font-size="15" font-weight="800">in</text><text x="100" y="42" class="t" font-size="23" font-weight="750">LinkedIn</text><text x="100" y="68" class="mono" font-size="14">shivanshu-satyajeet-a52013229</text><g><text x="470" y="60" fill="#247bff" font-size="28">→</text><animateTransform attributeName="transform" type="translate" values="0 0;8 0;0 0" dur="1.5s" begin=".3s" repeatCount="indefinite"/></g></g>
+<g transform="translate(600 440)"><rect width="520" height="100" rx="22" class="p"/><circle cx="54" cy="50" r="24" fill="#ff354f"/><text x="54" y="57" text-anchor="middle" class="t" font-size="13" font-weight="800">WEB</text><text x="100" y="42" class="t" font-size="23" font-weight="750">Portfolio</text><text x="100" y="68" class="mono" font-size="15">itsupportshiv.vercel.app</text><g><text x="470" y="60" fill="#ff354f" font-size="28">→</text><animateTransform attributeName="transform" type="translate" values="0 0;8 0;0 0" dur="1.5s" begin=".6s" repeatCount="indefinite"/></g></g>
+</svg>
