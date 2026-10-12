@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-label="Shivanshu Satyajeet profile hero">
+<defs>
+  <linearGradient id="edge" x1="0" x2="1"><stop stop-color="#247bff"/><stop offset="1" stop-color="#ff354f"/></linearGradient>
+  <linearGradient id="skin" x1="0" x2="1"><stop stop-color="#d98b63"/><stop offset=".55" stop-color="#c87652"/><stop offset="1" stop-color="#a9553e"/></linearGradient>
+  <linearGradient id="coat" x1="0" x2="1"><stop stop-color="#0e1524"/><stop offset=".55" stop-color="#111827"/><stop offset="1" stop-color="#19131b"/></linearGradient>
+  <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.4" fill="#14223a"/></pattern>
+  <clipPath id="portraitClip"><circle cx="969" cy="238" r="168"/></clipPath>
+  <clipPath id="nameClip"><rect x="55" y="155" width="690" height="160"/></clipPath>
+</defs>
+<style>
+.t{fill:#f6f7fb;font-family:Inter,Segoe UI,Arial,sans-serif}.m{fill:#9ba9c3;font-family:Inter,Segoe UI,Arial,sans-serif}.mono{fill:#87a1c7;font-family:Consolas,monospace}.panel{fill:#0d1527;stroke:#20395f;stroke-width:2}
+@media(prefers-reduced-motion:reduce){animate,animateTransform{display:none}}
+</style>
+<rect width="1200" height="520" rx="30" fill="#070b16"/><rect width="1200" height="520" rx="30" fill="url(#dots)" opacity=".68"/><rect x="2" y="2" width="1196" height="516" rx="28" fill="none" stroke="url(#edge)" stroke-width="3"/>
+<circle cx="76" cy="58" r="7" fill="#247bff"/><text x="98" y="65" class="mono" font-size="18">@void-tech-shiv</text>
+<g clip-path="url(#nameClip)"><g transform="translate(0 22)"><animateTransform attributeName="transform" type="translate" values="0 22;0 0" dur=".9s" fill="freeze"/><text x="68" y="143" class="m" font-size="26" letter-spacing="4">HEY, I'M</text><text x="66" y="245" class="t" font-size="86" font-weight="800">SHIVANSHU</text><text x="69" y="299" class="t" font-size="36" font-weight="700">SATYAJEET</text></g></g>
+<rect x="66" y="111" width="180" height="40" rx="8" fill="#070b16"><animate attributeName="width" values="180;0" dur="1s" fill="freeze"/></rect>
+<text x="70" y="352" class="m" font-size="22">Building security-first software, AI systems and practical developer tools.</text>
+<g transform="translate(70 389)"><rect width="620" height="64" rx="18" class="panel"/><circle cx="28" cy="32" r="7" fill="#247bff"/>
+<g opacity="1"><text x="52" y="40" class="t" font-size="22" font-weight="700">Cybersecurity Developer</text><animate attributeName="opacity" values="1;1;0;0;0;0;0;1" keyTimes="0;.2;.24;.48;.52;.76;.8;1" dur="12s" repeatCount="indefinite"/></g>
+<g opacity="0"><text x="52" y="40" class="t" font-size="22" font-weight="700">Full-Stack Builder</text><animate attributeName="opacity" values="0;0;1;1;0;0;0;0" keyTimes="0;.2;.24;.48;.52;.76;.8;1" dur="12s" repeatCount="indefinite"/></g>
+<g opacity="0"><text x="52" y="40" class="t" font-size="22" font-weight="700">AI Security Builder</text><animate attributeName="opacity" values="0;0;0;0;1;1;0;0" keyTimes="0;.2;.24;.48;.52;.76;.8;1" dur="12s" repeatCount="indefinite"/></g>
+<g opacity="0"><text x="52" y="40" class="t" font-size="22" font-weight="700">Embedded Systems Builder</text><animate attributeName="opacity" values="0;0;0;0;0;0;1;1" keyTimes="0;.2;.24;.48;.52;.76;.8;1" dur="12s" repeatCount="indefinite"/></g></g>
+<circle cx="969" cy="238" r="171" fill="#0d1527" stroke="#247bff" stroke-width="3"/><circle cx="969" cy="238" r="184" fill="none" stroke="#ff354f" stroke-width="2" stroke-dasharray="9 18"><animateTransform attributeName="transform" type="rotate" from="0 969 238" to="360 969 238" dur="20s" repeatCount="indefinite"/></circle>
+<g clip-path="url(#portraitClip)">
+  <ellipse cx="968" cy="401" rx="155" ry="120" fill="url(#coat)"/>
+  <path d="M844 392 Q866 318 914 299 Q930 288 945 284 L994 284 Q1010 289 1026 300 Q1075 324 1097 394 L1114 455 L822 455Z" fill="#111827"/>
+  <path d="M875 345 Q912 313 944 302 L968 337 L994 302 Q1026 313 1063 345 L1038 455 L900 455Z" fill="#090d17"/>
+  <path d="M946 275 L946 316 Q968 337 991 316 L991 274Z" fill="url(#skin)"/>
+  <ellipse cx="968" cy="214" rx="78" ry="91" fill="url(#skin)"/>
+  <path d="M892 205 Q884 128 938 106 Q979 88 1023 112 Q1062 132 1047 197 Q1032 158 997 153 Q960 147 928 168 Q910 181 892 205Z" fill="#0a080c"/>
+  <path d="M900 171 Q909 119 951 104 Q989 93 1025 117 Q1043 130 1048 157 Q1026 142 1006 142 Q976 135 949 148 Q921 159 900 171Z" fill="#111019"/>
+  <path d="M899 164 Q907 135 927 119 M916 154 Q932 122 954 112 M941 146 Q960 111 983 111 M970 143 Q995 114 1018 126 M1001 151 Q1021 135 1041 151" fill="none" stroke="#171923" stroke-width="11" stroke-linecap="round"/>
+  <path d="M899 163 Q907 142 922 124" fill="none" stroke="#247bff" stroke-width="4" opacity=".9"/><path d="M1025 129 Q1042 143 1048 167" fill="none" stroke="#ff354f" stroke-width="4" opacity=".85"/>
+  <path d="M906 204 Q932 191 955 200" fill="none" stroke="#312026" stroke-width="5" stroke-linecap="round"/><path d="M982 199 Q1005 190 1026 204" fill="none" stroke="#312026" stroke-width="5" stroke-linecap="round"/>
+  <g fill="none" stroke="#c9ceda" stroke-width="3"><rect x="900" y="188" width="58" height="39" rx="13"/><rect x="978" y="188" width="58" height="39" rx="13"/><path d="M958 204 Q968 199 978 204"/><path d="M900 201 L888 195"/><path d="M1036 201 L1047 195"/></g>
+  <ellipse cx="930" cy="207" rx="5" ry="7" fill="#151218"/><ellipse cx="1007" cy="207" rx="5" ry="7" fill="#151218"/><circle cx="932" cy="205" r="1.6" fill="#fff"/><circle cx="1009" cy="205" r="1.6" fill="#fff"/>
+  <path d="M968 207 Q958 233 966 239 Q975 242 981 237" fill="none" stroke="#a75c45" stroke-width="3"/>
+  <path d="M937 251 Q968 265 1000 251" fill="none" stroke="#66352f" stroke-width="4" stroke-linecap="round"/>
+  <path d="M923 242 Q932 266 948 278 Q968 292 990 279 Q1006 269 1015 243 Q1000 267 984 270 Q968 277 951 270 Q935 265 923 242Z" fill="#2a1717" opacity=".92"/>
+  <path d="M935 249 Q968 261 1000 249" fill="none" stroke="#2c1718" stroke-width="8" stroke-linecap="round"/><path d="M949 276 Q968 286 989 276" fill="none" stroke="#211216" stroke-width="7"/>
+  <path d="M873 351 Q860 404 858 455" fill="none" stroke="#247bff" stroke-width="5" opacity=".7"/><path d="M1064 346 Q1081 404 1084 455" fill="none" stroke="#ff354f" stroke-width="5" opacity=".7"/>
+</g>
+<rect x="818" y="425" width="304" height="49" rx="16" fill="#101e38" stroke="#315b9e"/><text x="970" y="455" text-anchor="middle" class="mono" font-size="15">KL UNIVERSITY · STUDENT DEVELOPER</text>
+</svg>
