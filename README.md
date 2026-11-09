@@ -24,7 +24,7 @@
 
 - **GitHub:** [@void-tech-shiv](https://github.com/void-tech-shiv)
 - **LinkedIn:** [shivanshu-satyajeet-a52013229](https://www.linkedin.com/in/shivanshu-satyajeet-a52013229/)
-- **Portfolio:** [itsupportshiv.vercel.app](https://itsupportshiv.vercel.app)
+- **Portfolio:** [codedev.co.in](https://www.codedev.co.in/)
 - **AI-SOC:** [github.com/void-tech-shiv/AI-SOC](https://github.com/void-tech-shiv/AI-SOC)
 - **PassCheck:** [get-passcheck.vercel.app](https://get-passcheck.vercel.app/)
 
